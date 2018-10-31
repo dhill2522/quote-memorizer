@@ -10,6 +10,7 @@ class MyApp extends StatelessWidget {
       title: 'Restoration Memorizer',
       theme: new ThemeData(primarySwatch: Colors.green,),
       // home: new MyHomePage(title: 'Restoration Memorizer'),
+
       home: QuoteListView(),
     );
   }
@@ -32,8 +33,15 @@ class QuotesState extends State<QuoteListView> {
   Widget _buildRow(Quote quote) {
     return Container(
       child: ListTile(
-        title: Text(quote.text),
-        subtitle: Text(quote.source),
+        title: Text(quote.title),
+        subtitle: Text(quote.shortText),
+        trailing: quote.isMemorized ? Icon(Icons.check) : new Icon(Icons.clear),
+        onTap: () {
+          setState(() {
+                      Quote q = _qoutesList.firstWhere((q) {return q.id == quote.id;});
+                      q.isMemorized = !q.isMemorized;
+                    });
+        },
       ),
       decoration: new BoxDecoration(
         border: new Border(bottom: new BorderSide(color: Colors.green))
