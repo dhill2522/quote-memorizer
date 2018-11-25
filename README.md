@@ -7,9 +7,9 @@ The basic idea is to make a simple app for memorizing quotes along with their so
 ## Plans
 - [x] Add a view for viewing the full quote
 - [x] Add a way to mark a quote as memorized or not
+- [x] Remove ShortText attribute
 - [ ] Add more permanent storage (json, yaml...)
 - [ ] Add a view to add a new quote
-- [ ] Remove ShortText attribute
 - [ ] Add minimum number of quotes
  
 ## Potential future improvements

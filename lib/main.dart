@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'views/quotesList.dart';
+import 'views/quotesListView.dart';
 
 void main() => runApp(new MyApp());
 
