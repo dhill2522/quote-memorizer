@@ -9,10 +9,9 @@ class QuotesState extends State<QuoteListView> {
 
   Widget _buildQuotesList() {
     return ListView.builder(
-      itemCount: _quotesList.getQuotes().length,
+      itemCount: _quotesList.length,
       padding: const EdgeInsets.all(16.0),
       itemBuilder: (context, i) {
-        // if (i.isOdd) return Divider();
         return _buildRow(_quotesList.getQuotes()[i]);
       }
     );
@@ -20,7 +19,7 @@ class QuotesState extends State<QuoteListView> {
 
   Widget _buildRow(Quote quote) {
     if (quote.title == null) {
-      // There may be nulls at times
+      // There may be nulls at times, this takes care of them
       return Container();
     }
     return Container(
@@ -31,15 +30,14 @@ class QuotesState extends State<QuoteListView> {
           child: quote.isMemorized ? Icon(Icons.check) : Icon(Icons.clear),
         ),
           
-        // trailing: quote.isMemorized ? Icon(Icons.check) : new Icon(Icons.clear),
         onTap: () {
           Navigator.push(
             context, MaterialPageRoute(builder: (context) => QuoteView(quote: quote, quoteList: _quotesList,)),
           );
         },
       ),
-      decoration: new BoxDecoration(
-        border: new Border(bottom: new BorderSide(color: Colors.green))
+      decoration: BoxDecoration(
+        border: Border(bottom: BorderSide(color: Colors.green))
       ),
     );
     
