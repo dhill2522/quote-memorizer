@@ -286,6 +286,120 @@ class QuoteList {
         'Thou shalt stand in the place of thy stewardship',
         'D&C 42:53',
         false
+      ),
+      Quote(
+        'Duties of a High Priest',
+        '''
+10 High priests after the order of the Melchizedek Priesthood have a right to officiate in their own standing, under the direction of the presidency, in administering spiritual things, and also in the office of an elder, priest (of the Levitical order), teacher, deacon, and member.
+11 An elder has a right to officiate in his stead when the high priest is not present.
+12 The high priest and elder are to administer in spiritual things, agreeable to the covenants and commandments of the church; and they have a right to officiate in all these offices of the church when there are no higher authorities present.
+        ''',
+        'Joseph Smith, Instruction of Priesthood, ',
+        false
+      ),
+      Quote(
+        'Blessing of an Apostle',
+        'you have your duty presented in this revelation. You have been ordained to the Holy Priesthood, You have received it from those who had their power and authority from an angel.—38 You are to preach the gospel to every nation. should you in the least degree, come short of your duty, great will be your condemnation. for the greater the calling, the greater the transgression.39 I, therefore, warn you to cultivate great humility, for I know the pride of the human heart. Beware, lest the flatterers of the world lift you up. Beware lest your affections are captivated by worldly objects. Let your ministry be first. Remember the souls of men are committed to your charge, and if you mind your calling you shall always prosper.',
+        'Joseph Smith Papers, Minutes and Blessings 21 Feb 1835, https://www.josephsmithpapers.org/paper-summary/minutes-and-blessings-21-february-1835/6',
+        false
+      ),
+      Quote(
+        'Eternal nature of the Priesthood',
+        'The Priesthood is an everlasting principle,” Joseph Smith explained, “and existed with God from eternity, and will to eternity, without beginning of days or end of years.”',
+        'Robert L. Millet, Prophets and Priesthood in the Old Testament, BYU Religious Studies Center',
+        false
+      ),
+      Quote(
+        'Priesthood and the Kingdom of God',
+        '“The kingdom of God was set up on the earth from the days of Adam to the present time,” the Prophet Joseph Smith explained, “whenever there has been a righteous man on earth unto whom God revealed His word and gave power and authority to administer in His name. And where there is a priest of God—a minister who has power and authority from God to administer in the ordinances of the gospel and officiate in the priesthood of God—there is the kingdom of God.”',
+        'Robert L. Millet, Prophets and Priesthood in the Old Testament, BYU Religious Studies Center',
+        false
+      ),
+      Quote(
+        'Patriarchal Priesthood',
+        'From the days of Adam to the time of Moses, men and women lived under the patriarchal order of the Melchizedek Priesthood. That is, they lived in a family order presided over by a patriarch. It includes the new and everlasting covenant of marriage. “Adam held the priesthood,” Elder Russell M. Nelson observed, “and Eve served in matriarchal partnership with the patriarchal priesthood.”',
+        'Robert L. Millet, Prophets and Priesthood in the Old Testament, BYU Religious Studies Center',
+        false        
+      ),
+      Quote(
+        'Patriarchal Priesthood Government',
+        'The government the Lord gave him was patriarchal, and . . . the righteous portion of mankind were blessed and governed by a patriarchal theocracy. This theocratic system, patterned after the order and system that prevailed in heaven, was the government of God. He himself, though dwelling in heaven, was the Lawgiver, Judge, and King. He gave direction in all things both civil and ecclesiastical; there was no separation of church and state as we know it. All governmental affairs were directed, controlled, and regulated from on high. The Lord’s legal administrators on earth served by virtue of their callings and ordinations in the Holy Priesthood and as they were guided by the power of the Holy Ghost.',
+        'Robert L. Millet, Prophets and Priesthood in the Old Testament, BYU Religious Studies Center',
+        false        
+      ),
+      Quote(
+        'Eternal Nature of Ordinances',
+        'Brother Joseph stated that God had “set the ordinances to be the same forever and ever, and set Adam to watch over them, to reveal them from heaven to man, or to send angels to reveal them.” That Adam “received revelations, commandments and ordinances at the beginning is beyond the power of controversy; else how did they begin to offer sacrifices to God in an acceptable manner? And if they offered sacrifices they must be authorized by ordination.”',
+        'Robert L. Millet, Prophets and Priesthood in the Old Testament, BYU Religious Studies Center',
+        false
+      ),
+      Quote(
+        'Cesation of Patriarchal Priesthood',
+        'When Moses was translated, the keys of the Melchizedek Priesthood were taken from among the Israelites as a body and the patriarchal order of priesthood ceased. True, there were still men like Aaron, his sons, and the seventy elders of Israel who bore the Melchizedek Priesthood. But no longer did the Melchizedek Priesthood pass from father to son. Thereafter, the priesthood of administration among the people generally was the Aaronic Priesthood. The ordination of men to the Melchizedek Priesthood and the bestowal of its keys came by special dispensation.',
+        'Robert L. Millet, Prophets and Priesthood in the Old Testament, BYU Religious Studies Center',
+        false        
+      ),
+      Quote(
+        'Higher Priesthood in ancient times',
+        'Joseph Smith was asked: “Was the Priesthood of Melchizedek taken away when Moses died?” The Prophet stated—and this principle guides our understanding of who held the High Priesthood from the translation of Moses to the days of Christ—that “all Priesthood is Melchizedek, but there are different portions or degrees of it. That portion which brought Moses to speak with God face to face was taken away; but that which brought the ministry of angels remained.” Now note this important clarification: “All the prophets had the Melchizedek Priesthood and were ordained by God himself,” [30] meaning that God Himself performed the ordination or sent a divine messenger to do so.',
+        'Robert L. Millet, Prophets and Priesthood in the Old Testament, BYU Religious Studies Center',
+        false
+      ),
+      Quote(
+        'Eternal Nature of Covenants',
+        'The temple endowment, the celestial marriage covenant, and the sealing of families and generations are interwoven in the plan of salvation and are all included within “the restoration of all things,” which means that these very ordinances and promises were known and practiced by ancient prophets, beginning with Adam.',
+        'Robert J. Matthews, "The Restoration of all things: What the Doctrine and Covenants Says, https://rsc.byu.edu/archived/selected-articles/restoration-all-things-what-doctrine-and-covenants-says',
+        false
+      ),
+      Quote(
+        'Celestial Marriage part of Abrahamic Covenant',
+        'The celestial marriage covenant is part of the covenant of Abraham. It is the type of marriage for eternity that Abraham had.',
+        'Robert J. Matthews, "The Restoration of all things: What the Doctrine and Covenants Says, https://rsc.byu.edu/archived/selected-articles/restoration-all-things-what-doctrine-and-covenants-says',
+        false
+      ),
+      Quote(
+        'Ancient Priesthood Councils',
+        'Concerning the order of ancient priesthood councils, the Prophet said: “I had never set before any council in all the order in which it ought to be conducted, which, perhaps, has deprived the councils of some or many blessings. . . . In ancient days councils were conducted with such strict propriety, that no one was allowed to whisper, be weary, leave the room, or get uneasy in the least, until the voice of the Lord, by revelation, or the voice of the council by the Spirit, was obtained, which has not been observed in this Church to the present time. It was understood in ancient days, that if one man could stay in council, another could; and if the president could spend his time, the members could also; but in our councils, generally, one will be uneasy, another asleep; one praying, another not; one’s mind on the business of the council, and another thinking on something else.” ',
+        'Robert J. Matthews, "The Restoration of all things: What the Doctrine and Covenants Says, https://rsc.byu.edu/archived/selected-articles/restoration-all-things-what-doctrine-and-covenants-says',
+        false
+      ),
+      Quote(
+        'Priesthood in a Political Function',
+        'At present the priesthood of the Church functions as an ecclesiastical organization—that is, as a church. Nonetheless, the power is inherent in the priesthood and the keys to function in a political manner when circumstances permit. Such was the case with Adam, Noah, the Nephites, and Moses.',
+        'Robert J. Matthews, "The Restoration of all things: What the Doctrine and Covenants Says, https://rsc.byu.edu/archived/selected-articles/restoration-all-things-what-doctrine-and-covenants-says',
+        false
+      ),
+      Quote(
+        'More to be Revealed',
+        'Not only will the ancient order be reestablished on the earth but the final dispensation will be given things never before revealed.',
+        'Robert J. Matthews, "The Restoration of all things: What the Doctrine and Covenants Says, https://rsc.byu.edu/archived/selected-articles/restoration-all-things-what-doctrine-and-covenants-says',
+        false
+      ),
+      Quote(
+        'Restoration applies to Eternal things',
+        'When speaking of the restoration of all things, we must understand that it is the ancient promises, the ancient priesthood, and the doctrinal teachings that are to be renewed. The Restoration does not mean that clothing styles, building construction, and traveling conveyances must revert to those of earlier times. We are not going to live in Abraham-style tents and travel by camel. The Restoration is of eternal things, the promises of eternal glory and exaltation that were made to Adam and to Abraham, as well as the ordinances and covenants by which such blessings can be secured by individuals living today.',
+        'Robert J. Matthews, "The Restoration of all things: What the Doctrine and Covenants Says, https://rsc.byu.edu/archived/selected-articles/restoration-all-things-what-doctrine-and-covenants-says',
+        false
+      ),
+      Quote(
+        'Ordiantion of High Priests',
+        '''
+2 And those priests were ordained after the aorder of his Son, in a bmanner that thereby the people might know in what manner to look forward to his Son for redemption.
+3 And this is the manner after which they were ordained—being acalled and bprepared from the cfoundation of the world according to the dforeknowledge of God, on account of their exceeding faith and good works; in the first place being left to echoose good or evil; therefore they having chosen good, and exercising exceedingly great ffaith, are gcalled with a holy calling, yea, with that holy calling which was prepared with, and according to, a preparatory redemption for such.
+4 And thus they have been acalled to this holy calling on account of their faith, while others would reject the Spirit of God on account of the hardness of their hearts and bblindness of their minds, while, if it had not been for this they might have had as great cprivilege as their brethren.
+        ''',
+        'Alma 13:2-4',
+        false
+      ),
+      Quote(
+        'Ordination of High Priests',
+        '''
+11 Therefore they were called after this holy order, and were asanctified, and their bgarments were washed white through the blood of the Lamb.
+12 Now they, after being asanctified by the bHoly Ghost, having their garments made white, being cpure and spotless before God, could not look upon dsin save it were with eabhorrence; and there were many, exceedingly great many, who were made pure and entered into the rest of the Lord their God.
+13 And now, my brethren, I would that ye should humble yourselves before God, and bring forth afruit meet for repentance, that ye may also enter into that rest.
+        ''',
+        'Alma 13:11-13',
+        false
       )
     ];
   }
