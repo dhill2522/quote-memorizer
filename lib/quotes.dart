@@ -35,7 +35,8 @@ class QuoteList {
 
   QuoteList() {
     storage.ready.then((ready) {
-      storage.setItem('quotes', null); // FIXME: This is
+      // FIXME: This is simply to make it automatically repopulate the quotes during development
+      storage.setItem('quotes', null);  
       print('storage is ready: $ready');
       isReady = ready;
       loadList();
@@ -95,6 +96,7 @@ class QuoteList {
     }
   }
 
+  // Simply auto-populates the quote list with the quotes required for the project
   autopupulateList() {
     this._list = [
       Quote(
